@@ -33,3 +33,9 @@ body
     font-size: 20px;
     color: deeppink;
 }
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
